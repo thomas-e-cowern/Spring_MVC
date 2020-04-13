@@ -1,0 +1,12 @@
+<%@ taglib prefix="form" uri="http://www.springframework.org/tags/form"%>
+<html>
+    <head>
+    </head>
+    <title>View Employee</title>
+    <body>
+        <h1>Employee Information</h1>
+        <h2>Name: ${ id }</h2>
+        <h2>Name: ${ name }</h2>
+        <h2>Name: ${ contactNumber }</h2>
+    </body>
+</html>
