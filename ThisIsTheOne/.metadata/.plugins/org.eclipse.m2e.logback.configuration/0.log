@@ -1,0 +1,120 @@
+2020-04-15 16:02:44,053 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-04-15 16:06:47,472 [Worker-14: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: spring-mvc-example:spring-mvc-example:0.0.1-SNAPSHOT @ /Users/tcowern/Desktop/TTSQAEClass/ThisIsTheOne/spring-mvc-example/pom.xml.
+2020-04-15 16:06:50,967 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-15 16:06:50,973 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tcowern/Desktop/TTSQAEClass/ThisIsTheOne/spring-mvc-example/src/main/resources
+2020-04-15 16:06:50,979 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-15 16:06:50,980 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tcowern/Desktop/TTSQAEClass/ThisIsTheOne/spring-mvc-example/src/test/resources
+2020-04-15 16:06:51,030 [Worker-14: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-mvc-example/src/main/java
+2020-04-15 16:06:51,033 [Worker-14: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-mvc-example/src/test/java
+2020-04-15 16:06:52,106 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-15 16:06:52,107 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tcowern/Desktop/TTSQAEClass/ThisIsTheOne/spring-mvc-example/src/main/resources
+2020-04-15 16:06:52,110 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-15 16:06:52,111 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tcowern/Desktop/TTSQAEClass/ThisIsTheOne/spring-mvc-example/src/test/resources
+2020-04-15 16:06:52,186 [Worker-14: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-04-15 16:06:53,175 [Worker-14: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: spring-mvc-example:spring-mvc-example:0.0.1-SNAPSHOT @ /Users/tcowern/Desktop/TTSQAEClass/ThisIsTheOne/spring-mvc-example/pom.xml.
+2020-04-15 16:06:55,383 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-15 16:06:55,385 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tcowern/Desktop/TTSQAEClass/ThisIsTheOne/spring-mvc-example/src/main/resources
+2020-04-15 16:06:55,390 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-15 16:06:55,392 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tcowern/Desktop/TTSQAEClass/ThisIsTheOne/spring-mvc-example/src/test/resources
+2020-04-15 16:06:55,394 [Worker-10: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of spring-mvc-example
+2020-04-15 16:06:55,395 [Worker-10: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for spring-mvc-example
+2020-04-15 16:06:55,422 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-15 16:06:55,455 [Worker-14: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-mvc-example/src/main/java
+2020-04-15 16:06:55,460 [Worker-14: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-mvc-example/src/test/java
+2020-04-15 16:06:56,077 [Worker-14: Enabling Maven Dependency Management] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for spring-mvc-example
+2020-04-15 16:06:56,133 [Worker-14: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2020-04-15 16:06:57,269 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-15 16:06:57,325 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tcowern/Desktop/TTSQAEClass/ThisIsTheOne/spring-mvc-example/src/main/resources
+2020-04-15 16:06:57,328 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-15 16:06:57,339 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tcowern/Desktop/TTSQAEClass/ThisIsTheOne/spring-mvc-example/src/test/resources
+2020-04-15 16:06:57,340 [Worker-3: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of spring-mvc-example
+2020-04-15 16:06:57,341 [Worker-3: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for spring-mvc-example
+2020-04-15 16:06:57,348 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-15 16:11:19,901 [Worker-15: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: spring-mvc-example:spring-mvc-example:0.0.1-SNAPSHOT @ /Users/tcowern/Desktop/TTSQAEClass/ThisIsTheOne/spring-mvc-example/pom.xml.
+2020-04-15 16:11:21,890 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-15 16:11:21,902 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tcowern/Desktop/TTSQAEClass/ThisIsTheOne/spring-mvc-example/src/main/resources
+2020-04-15 16:11:21,905 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-15 16:11:21,907 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tcowern/Desktop/TTSQAEClass/ThisIsTheOne/spring-mvc-example/src/test/resources
+2020-04-15 16:11:21,908 [Worker-15: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of spring-mvc-example
+2020-04-15 16:11:21,908 [Worker-15: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for spring-mvc-example
+2020-04-15 16:11:21,919 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-15 16:11:34,699 [Worker-16: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: spring-mvc-example:spring-mvc-example:0.0.1-SNAPSHOT @ /Users/tcowern/Desktop/TTSQAEClass/ThisIsTheOne/spring-mvc-example/pom.xml.
+2020-04-15 16:11:36,449 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-15 16:11:36,454 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tcowern/Desktop/TTSQAEClass/ThisIsTheOne/spring-mvc-example/src/main/resources
+2020-04-15 16:11:36,457 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-15 16:11:36,467 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tcowern/Desktop/TTSQAEClass/ThisIsTheOne/spring-mvc-example/src/test/resources
+2020-04-15 16:11:36,468 [Worker-16: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of spring-mvc-example
+2020-04-15 16:11:36,468 [Worker-16: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for spring-mvc-example
+2020-04-15 16:11:36,475 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-15 16:16:08,078 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-15 16:16:08,082 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tcowern/Desktop/TTSQAEClass/ThisIsTheOne/spring-mvc-example/src/main/resources
+2020-04-15 16:16:08,088 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-15 16:16:08,096 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tcowern/Desktop/TTSQAEClass/ThisIsTheOne/spring-mvc-example/src/test/resources
+2020-04-15 16:22:27,592 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-15 16:22:27,603 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tcowern/Desktop/TTSQAEClass/ThisIsTheOne/spring-mvc-example/src/main/resources
+2020-04-15 16:22:27,607 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-15 16:22:27,608 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tcowern/Desktop/TTSQAEClass/ThisIsTheOne/spring-mvc-example/src/test/resources
+2020-04-15 16:24:15,770 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-15 16:24:15,780 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tcowern/Desktop/TTSQAEClass/ThisIsTheOne/spring-mvc-example/src/main/resources
+2020-04-15 16:24:15,786 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-15 16:24:15,790 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tcowern/Desktop/TTSQAEClass/ThisIsTheOne/spring-mvc-example/src/test/resources
+2020-04-15 19:42:17,375 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-15 19:42:17,421 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tcowern/Desktop/TTSQAEClass/ThisIsTheOne/spring-mvc-example/src/main/resources
+2020-04-15 19:42:17,430 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-15 19:42:17,431 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tcowern/Desktop/TTSQAEClass/ThisIsTheOne/spring-mvc-example/src/test/resources
+2020-04-15 19:42:44,484 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-15 19:42:44,492 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tcowern/Desktop/TTSQAEClass/ThisIsTheOne/spring-mvc-example/src/main/resources
+2020-04-15 19:42:44,493 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-15 19:42:44,494 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tcowern/Desktop/TTSQAEClass/ThisIsTheOne/spring-mvc-example/src/test/resources
+2020-04-15 19:45:02,920 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-15 19:45:02,934 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tcowern/Desktop/TTSQAEClass/ThisIsTheOne/spring-mvc-example/src/main/resources
+2020-04-15 19:45:02,939 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-15 19:45:02,940 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tcowern/Desktop/TTSQAEClass/ThisIsTheOne/spring-mvc-example/src/test/resources
+2020-04-15 19:45:18,642 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-15 19:45:18,647 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tcowern/Desktop/TTSQAEClass/ThisIsTheOne/spring-mvc-example/src/main/resources
+2020-04-15 19:45:18,657 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-15 19:45:18,658 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tcowern/Desktop/TTSQAEClass/ThisIsTheOne/spring-mvc-example/src/test/resources
+2020-04-15 19:46:06,985 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-15 19:46:06,990 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tcowern/Desktop/TTSQAEClass/ThisIsTheOne/spring-mvc-example/src/main/resources
+2020-04-15 19:46:06,992 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-15 19:46:06,993 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tcowern/Desktop/TTSQAEClass/ThisIsTheOne/spring-mvc-example/src/test/resources
+2020-04-15 19:46:13,818 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-15 19:46:13,826 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tcowern/Desktop/TTSQAEClass/ThisIsTheOne/spring-mvc-example/src/main/resources
+2020-04-15 19:46:13,828 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-15 19:46:13,829 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tcowern/Desktop/TTSQAEClass/ThisIsTheOne/spring-mvc-example/src/test/resources
+2020-04-15 19:47:20,363 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-15 19:47:20,370 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tcowern/Desktop/TTSQAEClass/ThisIsTheOne/spring-mvc-example/src/main/resources
+2020-04-15 19:47:20,376 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-15 19:47:20,378 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tcowern/Desktop/TTSQAEClass/ThisIsTheOne/spring-mvc-example/src/test/resources
+2020-04-15 19:47:59,832 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-15 19:47:59,941 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tcowern/Desktop/TTSQAEClass/ThisIsTheOne/spring-mvc-example/src/main/resources
+2020-04-15 19:47:59,972 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-15 19:48:00,135 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tcowern/Desktop/TTSQAEClass/ThisIsTheOne/spring-mvc-example/src/test/resources
+2020-04-15 19:48:04,031 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-15 19:48:04,033 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tcowern/Desktop/TTSQAEClass/ThisIsTheOne/spring-mvc-example/src/main/resources
+2020-04-15 19:48:04,036 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-15 19:48:04,037 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tcowern/Desktop/TTSQAEClass/ThisIsTheOne/spring-mvc-example/src/test/resources
+2020-04-15 19:49:07,792 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-15 19:49:07,866 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tcowern/Desktop/TTSQAEClass/ThisIsTheOne/spring-mvc-example/src/main/resources
+2020-04-15 19:49:07,874 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-15 19:49:07,875 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tcowern/Desktop/TTSQAEClass/ThisIsTheOne/spring-mvc-example/src/test/resources
+2020-04-15 19:49:13,416 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-15 19:49:13,419 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tcowern/Desktop/TTSQAEClass/ThisIsTheOne/spring-mvc-example/src/main/resources
+2020-04-15 19:49:13,423 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-15 19:49:13,424 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tcowern/Desktop/TTSQAEClass/ThisIsTheOne/spring-mvc-example/src/test/resources
+2020-04-15 19:49:45,198 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-15 19:49:45,205 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tcowern/Desktop/TTSQAEClass/ThisIsTheOne/spring-mvc-example/src/main/resources
+2020-04-15 19:49:45,216 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-15 19:49:45,217 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tcowern/Desktop/TTSQAEClass/ThisIsTheOne/spring-mvc-example/src/test/resources
+2020-04-15 19:51:10,801 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-15 19:51:10,811 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tcowern/Desktop/TTSQAEClass/ThisIsTheOne/spring-mvc-example/src/main/resources
+2020-04-15 19:51:10,814 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-15 19:51:10,815 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tcowern/Desktop/TTSQAEClass/ThisIsTheOne/spring-mvc-example/src/test/resources
+2020-04-15 19:51:36,067 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-15 19:51:36,077 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tcowern/Desktop/TTSQAEClass/ThisIsTheOne/spring-mvc-example/src/main/resources
+2020-04-15 19:51:36,080 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-15 19:51:36,081 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tcowern/Desktop/TTSQAEClass/ThisIsTheOne/spring-mvc-example/src/test/resources
+2020-04-15 19:53:12,579 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-15 19:53:12,592 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tcowern/Desktop/TTSQAEClass/ThisIsTheOne/spring-mvc-example/src/main/resources
+2020-04-15 19:53:12,598 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-15 19:53:12,613 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tcowern/Desktop/TTSQAEClass/ThisIsTheOne/spring-mvc-example/src/test/resources

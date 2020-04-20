@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+/Users/tcowern/Desktop/TTSQAEClass/ThisIsTheOne/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3044301369.index
+/spring-mvc-example/src/main/java
+/Users/tcowern/Desktop/TTSQAEClass/ThisIsTheOne/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2885646568.index
+/spring-mvc-example/src/main/java
